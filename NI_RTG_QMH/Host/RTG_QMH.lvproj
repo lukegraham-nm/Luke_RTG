@@ -18,7 +18,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="RTG Examples.lvlib" Type="Library" URL="../RTG Examples.lvlib"/>
-		<Item Name="RTG_Host_Main.vi" Type="VI" URL="../RTG_Host_Main.vi"/>
+		<Item Name="RTG_QMH_Main.vi" Type="VI" URL="../RTG_QMH_Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niInstr Basic Elements v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Basic Elements/v1/FPGA/niInstr Basic Elements v1 FPGA.lvlib"/>
