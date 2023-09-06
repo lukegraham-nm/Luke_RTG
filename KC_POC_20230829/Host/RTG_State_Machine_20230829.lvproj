@@ -17,8 +17,6 @@
 		<Item Name="Utilities" Type="Folder" URL="../Utilities">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Delete_Placeholder.vi" Type="VI" URL="../Delete_Placeholder.vi"/>
-		<Item Name="RTG Example_reduced_20230830.vi" Type="VI" URL="../RTG Example_reduced_20230830.vi"/>
 		<Item Name="RTG Examples.lvlib" Type="Library" URL="../RTG Examples.lvlib"/>
 		<Item Name="RTG_Host_Main.vi" Type="VI" URL="../RTG_Host_Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
