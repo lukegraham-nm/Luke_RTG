@@ -1,0 +1,10 @@
+Sept 6, 2023
+
+0. Get Haydn's waterfall display working.
+0.1. Send trigger when delay threshold is met.
+
+1. Allow Reset FPGA trigger Count.
+2. Monitor Trigger input line. Latch SW trigger count.
+3. Notify Host that FPGA sees trigger. 
+4. Create subset of csv file.
+5. Deploy subset of csv file.
